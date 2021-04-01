@@ -1,1 +1,1 @@
-# AnimeFilter
+# Javascript anime filtering page
